@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-sarahg4000",
+  "version": "1.0.0",
+  "description": "premier essaie pour node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahG4000/nodejs-cli.git"
+  },
+  "author": "sarahg4000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahG4000/nodejs-cli/issues"
+  },
+  "homepage": "https://github.com/SarahG4000/nodejs-cli#readme"
+}
