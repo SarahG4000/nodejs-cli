@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/SarahG4000/nodejs-cli#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chalk": "^4.0.0",
     "country-list": "^2.2.0",
     "figlet": "^1.4.0",
